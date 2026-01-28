@@ -1,1 +1,0 @@
-# DocAssist-RAG-project
